@@ -1,4 +1,4 @@
-package AreaOfRect;
+
 
 public class RectanglePerimeter {
     private double length;
